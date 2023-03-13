@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="center">
+  <img style="width: 256px" alt="Uber Rainbow" src="https://user-images.githubusercontent.com/6278999/224653436-de1ee8fd-b408-4eee-b205-9efa3ede0032.png">
+</p>
 
-<!--
-**Akamig/Akamig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Features
+- 🎱 Executive Akamig Operator
+- [🧍 Office Grounding Counsultant](https://twitter.com/_Akamig/status/1551833363454889985?s=20)
+- ☕️ Asynchronous Hand-Drip Coffee Generator
+- 👖 [Levi's® Denim Jacket Protector](https://twitter.com/_Akamig/status/1512738727432388610?s=20)
+- ⌨️ Software Developer i guess idk 
+  - i generally do js/ts stuff and react as job
+  - can handle C, C++, C#, Rust, Python, Shell scripts
+- 🕸️ Server / Infrastructure Management'
+  - I run my own home server
+  - Akamingnet® 10Gbps Intranet Sysop (not working)
+  - run several web services ~~(and abandon them)~~ 
+  - SSH hell out of 'em
+- ⛏️ Hack
+  - disassemble stuff and plugging jtag is fun
+- ⚡️ i also do some electronics
+  - Proud Owner of Particle-Accelerated-Display (CRT Trinitron Monitor)
+  - ROM reading retro games
+- 🎹 synthesizer / audio engineering
+- 🎨 graphic design / typography.
+- 🪡 sewing machining and dyeing and knitting
+- ⚒️ general construction, janitorial, HVAC services
+  - demolition, interior finishing, drywall job, painting, waterproofing, plumbing, electricals, boiler maintenece
+  - fix pretty much anything
 
-Here are some ideas to get you started:
+## PRGM
+- [🎛️ IBM 1401 Punchcard Programming](https://github.com/xnuk/idoru-yameru/blob/master/ibm1401_sps/readyou.md) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
