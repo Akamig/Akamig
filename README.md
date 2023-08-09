@@ -9,7 +9,7 @@
 - ☕️ Asynchronous Hand-Drip Coffee Generator
 - 👖 [Levi's® Denim Jacket Protector](https://twitter.com/_Akamig/status/1512738727432388610?s=20)
 - ⌨️ Software Developer i guess idk 
-  - i generally do js/ts stuff and react as job
+  - i generally do TS/JS ~~BLACK MAGIC SORCERY~~ stuff and react as job
   - can handle C, C++, C#, Rust, Python, Shell scripts
 - 🕸️ Server / Infrastructure Management'
   - I run my own home server
